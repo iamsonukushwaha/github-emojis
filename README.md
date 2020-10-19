@@ -4,7 +4,7 @@
 
 
 
-> Live Demo on **[https://flyingsonu122.github.io/github-emojis](https://flyingsonu122.github.io/github-emojis)**
+> Live Demo on **[https://flyingsonu122.github.io/github-emojis/](https://flyingsonu122.github.io/github-emojis/)**
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
