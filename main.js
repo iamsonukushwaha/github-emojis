@@ -1,5 +1,6 @@
 //  Made with love by Sonu kumar kushwaha 
 
+getEmojis();
 
 async function getEmojis() {
     clear();
@@ -32,3 +33,4 @@ function clear() {
     while (divResult.firstChild)
         divResult.removeChild(divResult.firstChild)
 }
+
