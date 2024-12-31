@@ -2,7 +2,7 @@
 
 ### Showing emojis supported on Github 
 
-> Live Demo on **[https://flyingsonu122.github.io/github-emojis/](https://flyingsonu122.github.io/github-emojis/)**
+> Live Demo on **[https://iamsonukushwaha.github.io/github-emojis/](https://iamsonukushwaha.github.io/github-emojis/)**
 
 ---
 
